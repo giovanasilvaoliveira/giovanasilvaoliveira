@@ -1,10 +1,9 @@
-- 👋 Olá, I’m @giovanasilvaoliveira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas vindas ao meu perfil 🦋🌻
 
-<!---
-giovanasilvaoliveira/giovanasilvaoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Giovana Oliveira 😄
+
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+  Sou aluna do ensino integral
